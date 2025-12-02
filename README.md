@@ -62,6 +62,8 @@
 
 ## Recursos
 
+[Presentaciones del curso](https://static.platzi.com/media/public/uploads/curso-de-arquitecturas-limpias-para-desarrollo-de-software_0f6b0c88-86a8-4e1a-85cc-f733a18af006.pdf)
+
 ## Resultado
 
 https://platzi.com/clases/examen/resultados/ABC/
