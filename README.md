@@ -10,6 +10,15 @@
 
 ### Características y Beneficios de la Arquitectura Limpia
 
+**Dominio** es la razon de ser del sistema
+
+Elementos externos:
+
+- Interfaces graficas
+- Bases de datos
+- Sistemas de terceros
+- Frameworks
+
 ### Cuándo aplicar o ignorar arquitecturas limpias en desarrollo software
 
 ### Principios SOLID: Aplicación Práctica en Arquitecturas Limpias
@@ -64,6 +73,8 @@
 
 [Presentaciones del curso](https://static.platzi.com/media/public/uploads/curso-de-arquitecturas-limpias-para-desarrollo-de-software_0f6b0c88-86a8-4e1a-85cc-f733a18af006.pdf)
 
+https://fullstackmark.com/post/11/better-software-design-with-clean-architecture
+
 ## Resultado
 
-https://platzi.com/clases/examen/resultados/ABC/
+https://platzi.com/clases/examen/resultados/7759/
